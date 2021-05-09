@@ -1,0 +1,1 @@
+I used this terraform for create ecs cluster on AWS.Didnt include tf.vars file there because of data criticality.if any issue i can explain on the interview
